@@ -1,6 +1,6 @@
-### Hi there!👋 </br>
-### <h4>My name is Gabriela and I'm currently working on becoming a web developer.</h4>
-### <h4>I have a Bachelors in Finance but my interest for technology led me to change careers and now I'm looking to combine my professional knowledge with my new technical skills.<h4> </br>
+# Hi there!👋 </br>
+##My name is Gabriela and I'm currently working on becoming a web developer.</h4>
+##I have a Bachelors in Finance but my interest for technology led me to change careers and now I'm looking to combine my professional knowledge with my new technical skills.<h4> </br>
 
 ### 🌐 Connect with me:
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : (https://shorturl.at/wCIO0) </br>
@@ -19,16 +19,4 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <!--
-**gabyrramos/gabyrramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
