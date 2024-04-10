@@ -3,8 +3,8 @@
 ### <h4>I have a Bachelors in Finance but my interest for technology led me to change careers and now I'm looking to combine my professional knowledge with my new technical skills.<h4> </br>
 
 ### 🌐 Connect with me:
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</br>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : (https://shorturl.at/wCIO0) </br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : gabyr.contact@gmail.com
 
 ### 💻 Tech Skills:
 
