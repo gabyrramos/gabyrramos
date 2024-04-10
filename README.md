@@ -1,6 +1,7 @@
 # Hi there!👋 </br>
-##My name is Gabriela and I'm currently working on becoming a web developer.</h4>
-##I have a Bachelors in Finance but my interest for technology led me to change careers and now I'm looking to combine my professional knowledge with my new technical skills.<h4> </br>
+My name is Gabriela and I'm currently working on becoming a web developer.
+I have a Bachelors in Finance and International Business but my interest for technology led me to switch careers and now I'm looking to combine my background knowledge with my new technical skills.</br>
+
 
 ### 🌐 Connect with me:
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : (https://shorturl.at/wCIO0) </br>
