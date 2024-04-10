@@ -1,9 +1,9 @@
 ### Hi there 👋 my name is Gabriela and I'm currently working on becoming a web developer.
-### I have a Bachelors in Finance but my interest for technology led me to change careers and now I'm looking to combine my professional knowledge with my new technical skills. </br>
+### <h4>I have a Bachelors in Finance but my interest for technology led me to change careers and now I'm looking to combine my professional knowledge with my new technical skills.<h4> </br>
 
 ### 🌐 Connect with me:
-
-![LinkedIn] (https://www.linkedin.com/in/gabrielarramos/)</br>
+![Linkedin] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### 💻 Tech Skills:
 
@@ -15,7 +15,7 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-[Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <!--
 **gabyrramos/gabyrramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
