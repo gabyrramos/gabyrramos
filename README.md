@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <!--
 **gabyrramos/gabyrramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
