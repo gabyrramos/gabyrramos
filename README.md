@@ -1,6 +1,6 @@
 # Hi there!👋 </br>
-My name is Gabriela and I'm currently working on becoming a web developer.
-I have a Bachelors in Finance and International Business but my interest for technology led me to switch careers and now I'm looking to combine my background knowledge with my new technical skills.</br>
+My name is Gabriela and I'm a junior backend web developer.
+I'm a professional with over 12 years of work experience, I have a Bachelors in Finance and International Business but my interest for technology led me to switch careers and now I'm looking to combine my background knowledge with my new technical skills.</br>
 
 
 ### 🌐 Connect with me:
