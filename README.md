@@ -9,19 +9,29 @@ I'm a professional with over 12 years of work experience, I have a Bachelors in 
 
 ### 💻 Tech Skills:
 
-![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)</br>
+* Developer (TypeScript, JavaScript, Python, SQL)
+Built APIs with Node.js, Express, and Prisma on PostgreSQL. Integrated with MongoDB.
+* Experience with Web Technologies
+Frontend development with React, Vue, HTML5, and CSS3, focusing on responsive UI design.
+Implemented secure authentication with JWT and middleware.
+* Experience with DevOps & Cloud Computing
+Worked with AWS EC2, Docker, and ECS for scalable infrastructure.
+Currently learning CI/CD, automated deployments, and cloud resource optimization.
+*nFamiliar with Data Processing & Testing
+Managed large datasets with PostgreSQL and Sequelize/Prisma.
+Conducted unit and integration testing with Jest to ensure API reliability.
+* Active Learning
+Enhancing SQL and Python skills 
+Preparing for AWS certifications.
 
 
-### 🎨 Design and organization skills:
+
+### 🎨 Design, organization and documentation skills:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 <!--
 
