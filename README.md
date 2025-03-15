@@ -1,5 +1,5 @@
 # Hi there!👋 </br>
-My name is Gabriela and I'm a junior backend web developer.
+My name is Gabriela and I'm a fullstack web developer.
 I'm a professional with over 12 years of work experience, I have a Bachelors in Finance and International Business but my interest for technology led me to switch careers and now I'm looking to combine my background knowledge with my new technical skills.</br>
 
 
@@ -9,18 +9,18 @@ I'm a professional with over 12 years of work experience, I have a Bachelors in 
 
 ### 💻 Tech Skills:
 
-* Developer (TypeScript, JavaScript, Python, SQL)
+* Developer (TypeScript, JavaScript, Python, SQL): 
 Built APIs with Node.js, Express, and Prisma on PostgreSQL. Integrated with MongoDB.
-* Experience with Web Technologies
+* Experience with Web Technologies: 
 Frontend development with React, Vue, HTML5, and CSS3, focusing on responsive UI design.
 Implemented secure authentication with JWT and middleware.
-* Experience with DevOps & Cloud Computing
+* Experience with DevOps & Cloud Computing: 
 Worked with AWS EC2, Docker, and ECS for scalable infrastructure.
 Currently learning CI/CD, automated deployments, and cloud resource optimization.
-*nFamiliar with Data Processing & Testing
+* Familiar with Data Processing & Testing:
 Managed large datasets with PostgreSQL and Sequelize/Prisma.
 Conducted unit and integration testing with Jest to ensure API reliability.
-* Active Learning
+* Active Learning: 
 Enhancing SQL and Python skills 
 Preparing for AWS certifications.
 
